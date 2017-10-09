@@ -19,8 +19,9 @@ Or install it yourself as:
     $ gem install jurell_tanksley_view_tool
 
 ## Usage
-
-TODO: Write usage instructions here
+```
+JurellTanksleyViewTool::Renderer.copyright 'Jurell Tanksley', 'All rights reserved'
+```
 
 ## Development
 
