@@ -1,6 +1,6 @@
 # JurellTanksleyViewTool
 
-> This is for a dynamic copyright for the footer
+> This is for a dynamic copyright for the footer.
 
 ## Installation
 
